@@ -1,0 +1,5 @@
+com\spring\controller\StudentController.class
+com\spring\service\StudentService.class
+com\spring\studentrepository\StudentRepository.class
+com\spring\model\Student.class
+com\spring\SpringBootH2DayabaseApplication.class
